@@ -17,14 +17,11 @@
 ## Project Title
 🚀 ShardDrive: A Distributed File Backup and Recovery System with Parallel Processing
 
-## Project Supervisor
-👨‍🏫 [Supervisor Name]
 
 ## Project Team
 👥 Team Members:
-- [Your Name]
-- [Team Member 1 (if any)]
-- [Team Member 2 (if any)]
+- Robas Ahmed Shah
+- Huzaifa Siraj
 
 ## Project Summary
 ShardDrive aims to revolutionize file backup and recovery by developing a distributed system using parallel processing techniques. It will efficiently handle large files by splitting them into smaller shards and distributing these across different nodes in a network.
