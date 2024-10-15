@@ -1,6 +1,6 @@
 # 📂 Project Proposal: ShardDrive
 
-![ShardDrive Banner Placeholder](https://drive.google.com/file/d/1uW4aHNpvNU4gtaUkPlsdXiWRY7Zzvc8e/preview)
+![ShardDrive Banner Placeholder](https://github.com/RobasAhmedShah/ShardDrive/blob/main/logo.jpeg?raw=true)
 
 ## Table of Contents
 - [Project Title](#project-title)
