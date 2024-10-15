@@ -4,7 +4,6 @@
 
 ## Table of Contents
 - [Project Title](#project-title)
-- [Project Supervisor](#project-supervisor)
 - [Project Team](#project-team)
 - [Project Summary](#project-summary)
 - [Project Objectives](#project-objectives)
