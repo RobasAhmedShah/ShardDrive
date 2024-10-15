@@ -1,6 +1,6 @@
 # 📂 Project Proposal: ShardDrive
 
-![ShardDrive Banner Placeholder](https://via.placeholder.com/800x200?text=ShardDrive:+Distributed+File+Backup+and+Recovery+System)
+![ShardDrive Banner Placeholder](https://ideogram.ai/assets/image/lossless/response/abejB-NiQCqYJ9cbmIWp7g)
 
 ## Table of Contents
 - [Project Title](#project-title)
