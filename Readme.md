@@ -1,6 +1,6 @@
 # 📂 Project Proposal: ShardDrive
 
-![ShardDrive Banner Placeholder](https://ideogram.ai/assets/image/lossless/response/abejB-NiQCqYJ9cbmIWp7g)
+![ShardDrive Banner Placeholder](https://drive.google.com/file/d/1uW4aHNpvNU4gtaUkPlsdXiWRY7Zzvc8e/preview)
 
 ## Table of Contents
 - [Project Title](#project-title)
